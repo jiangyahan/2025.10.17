@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"
 <meta name="viewport" content="width=device-width, initial-scale=1"
-<title>My Personal Homepage（  This is magic word!） 
+<title>My Personal Homepage（  This is magic world!） 
 <link rel="stylesheet" href="styles.css"/:
 </head>
 <body>
