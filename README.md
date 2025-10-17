@@ -29,10 +29,10 @@
 
  也许是听了小猫的忠告，我开始了学习java script......</p>
  
-<img src="images/me.jpg" alt="A photo of me"
+<img src="images/me.jpg" alt="A photo of me"<p>
 </section>
 <section id="projects">
 <h2>My Projects</h2>
 <div class="gallery">
 
-  
+
