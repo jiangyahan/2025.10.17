@@ -1,36 +1,32 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+header >
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的世界</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f8ff;
-        }
-        
-        .chinese-text {
-            font-size: 2.5rem;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-        
-        .english-text {
-            font-size: 1.2rem;
-            text-align: center;
-            color: #333;
-        }
-    </style>
+<meta charset="utf-8"
+<meta name="viewport" content="width=device-width, initial-scale=1"
+<title>My Personal Homepage</title>
+<link rel="stylesheet" href="styles.css"/:
 </head>
 <body>
-    <div class="chinese-text">欢迎来到我的世界，这里将充满魔法</div>
-    <div class="english-text">welcome to my world, where magic fills the air</div>
-</body>
-</html>
+<header>
+<h1>#
+V Hi, I'm CK</h1>
+<p>Welcome to my first webpage!</p>
+<nav class="nav">
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+<main>
+<section id="about">
+<h2>About Me</h2>
+<p>Write 3-5 sentences introducing yourself, your interests, and why
+you're learning web programming.</p>
+<img src="images/me.jpg" alt="A photo of me"
+</section>
+<section id="projects">
+<h2>My Projects</h2>
+<div class="gallery">
+
+  
