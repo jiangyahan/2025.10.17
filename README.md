@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 ---------------------⍢⃝ ⍤⃝ ⍥⃝ ⍨⃝ ⍩⃝ ୧⍥⃝୨ ୧ ⍤⃝୨--------------⍢⃝ ⍤⃝ ⍥⃝ ⍨⃝ ⍩⃝ ୧⍥⃝୨ ୧ ⍤⃝୨-------------
-
-
 <html lang="en">
 <head>
 <meta charset="utf-8"
 <meta name="viewport" content="width=device-width, initial-scale=1"
-<title>My Personal Homepage</title>
+<title>My Personal Homepage（  This is magic word!） 
 <link rel="stylesheet" href="styles.css"/:
 </head>
 <body>
 <header>
-<h1>#
- Hi, This is magic word! </h1>
+<h1>
+ Hi, my name is 阿西达卡(●´ω｀●)ゞ![Uploading image.png…]()
+ </h1>
 <p>Welcome to my first webpage!</p>
 <nav class="nav">
 <a href="#about">About</a>
