@@ -10,7 +10,7 @@
 <body>
 <header>
 <h1>
- Hi, my name is 阿西达卡(●´ω｀●)ゞ![Uploading image.png…]()
+ Hi, my name is 阿西达卡(●´ω｀●)ゞ!()
  </h1>
 <p>Welcome to my first webpage!</p>
 <nav class="nav">
