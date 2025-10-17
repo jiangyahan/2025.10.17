@@ -28,15 +28,7 @@
  “：我年轻的主人，你不适合搞政治。你现在应该做的，是到学校去学习更多的知识。尤其是java script。只有这样，你才能把工作干得更好，过上更好的生活……”
 
  也许是听了小猫的忠告，我开始了学习java script......</p>
- <main>
-<section id="about">
-<h2>About Me</h2>
-
-<img src="images/me.jpg" alt="A photo of me"
-</section>
-
-<img src="images/me.jpg" alt="A photo of me"<p>
-</section>
+ 
 <section id="projects">
 <h2>My Projects</h2>
 <div class="gallery">
