@@ -10,7 +10,7 @@ header >
 <body>
 <header>
 <h1>#
-V Hi, I'm CK</h1>
+ Hi, This is magic word! </h1>
 <p>Welcome to my first webpage!</p>
 <nav class="nav">
 <a href="#about">About</a>
